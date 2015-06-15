@@ -16,6 +16,7 @@ defmodule SampleApp.Router do
     pipe_through :browser # Use the default browser stack
 
     get "/", PageController, :index
+    get "/awesome", AwesomeController, :index
   end
 
   # Other scopes may use custom stacks.
