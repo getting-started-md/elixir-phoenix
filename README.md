@@ -1,6 +1,6 @@
 # Elixir & Phoenix
 
-Phoenix is a full-blown MVC framework for Elixir. It has a similar feel to rails and is quickly becomming the de-facto framework for developing full stack Elixir websites.
+Phoenix is a full-blown MVC framework for Elixir. It has a similar feel to rails and is quickly becoming the de-facto framework for developing full stack Elixir websites.
 
 
 ##Install elixir
